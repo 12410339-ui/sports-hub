@@ -83,7 +83,7 @@ function About() {
 
           <td>
             LeBron James
-            <a href="https://www.google.com/search?q=LeBron+James" target="_blank">
+            <a href="https://www.google.com/search?q=LeBron+James" target="_blank" rel="noreferrer">
               🔍
             </a>
           </td>
@@ -95,14 +95,14 @@ function About() {
 
           <td>
             UFC
-            <a href="https://www.google.com/search?q=UFC" target="_blank">
+            <a href="https://www.google.com/search?q=UFC" target="_blank"rel="noreferrer">
               🔍
             </a>
           </td>
 
           <td>
             Khabib
-            <a href="https://www.google.com/search?q=Khabib" target="_blank">
+            <a href="https://www.google.com/search?q=Khabib" target="_blank"rel="noreferrer">
               🔍
             </a>
           </td>

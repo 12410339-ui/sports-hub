@@ -24,7 +24,7 @@ function Home() {
 
       <img
         src="https://picsum.photos/700/300"
-        alt="sports image"
+        alt="sports Banner"
       />
 
       <h2>Core Features</h2>
