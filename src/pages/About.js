@@ -33,7 +33,7 @@ function About() {
 
       <img
         src="https://picsum.photos/700/300"
-        alt="sports image"
+        alt="Sports Hub Banner"
       />
 
       <br />
@@ -57,14 +57,14 @@ function About() {
 
           <td>
             FIFA
-            <a href="https://www.google.com/search?q=FIFA" target="_blank">
+            <a href="https://www.google.com/search?q=FIFA" target="_blank" rel="noreferrer">
               🔍
             </a>
           </td>
 
           <td>
             Messi
-            <a href="https://www.google.com/search?q=Messi" target="_blank">
+            <a href="https://www.google.com/search?q=Messi" target="_blank" rel="noreferrer">
               🔍
             </a>
           </td>
@@ -76,7 +76,7 @@ function About() {
 
           <td>
             NBA
-            <a href="https://www.google.com/search?q=NBA" target="_blank">
+            <a href="https://www.google.com/search?q=NBA" target="_blank" rel="noreferrer">
               🔍
             </a>
           </td>
