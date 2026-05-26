@@ -95,14 +95,14 @@ function About() {
 
           <td>
             UFC
-            <a href="https://www.google.com/search?q=UFC" target="_blank"rel="noreferrer">
+            <a href="https://www.google.com/search?q=UFC" target="_blank" rel="noreferrer">
               🔍
             </a>
           </td>
 
           <td>
             Khabib
-            <a href="https://www.google.com/search?q=Khabib" target="_blank"rel="noreferrer">
+            <a href="https://www.google.com/search?q=Khabib" target="_blank" rel="noreferrer">
               🔍
             </a>
           </td>
